@@ -1,3 +1,9 @@
+## Hello! Welcome to my profile! 😉
+
+- 🔗Studying Web 3 and Blockchain development;
+- 🅰️Working with Angular and Typescript;
+- 💜Unicamp Blockchain League.
+
 <div>
   <img height="250em" src="https://github-readme-stats.vercel.app/api?username=joao-vitor-machado&show_icons=true&theme=dracula">
    <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-machado&theme=dracula">
