@@ -1,6 +1,6 @@
 <div>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=joao-vitor-machado&show_icons=true&theme=dracula">
-   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-machado&theme=dracula">
+  <img height="300em" src="https://github-readme-stats.vercel.app/api?username=joao-vitor-machado&show_icons=true&theme=dracula">
+   <img height="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-machado&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>
