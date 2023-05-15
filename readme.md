@@ -1,5 +1,7 @@
-[![Joao Machado's GitHub stats](https://github-readme-stats.vercel.app/api?username=joao-vitor-machado&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-machado&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-vitor-machado&show_icons=true&theme=dracula">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-machado&theme=dracula">
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="joao-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
