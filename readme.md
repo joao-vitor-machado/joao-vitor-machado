@@ -5,14 +5,14 @@
 - 💜Unicamp Blockchain League.
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joao-vitor-machado&show_icons=true&theme=dracula">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-machado&theme=dracula">
+  <img height="240em" src="https://github-readme-stats.vercel.app/api?username=joao-vitor-machado&show_icons=true&theme=dracula">
+   <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-machado&theme=dracula">
 </div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="joao-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="joao-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="joao-Solidity" height="30" width="40" src="./solidity-white.svg">
+  <img align="center" alt="joao-Solidity" height="30" width="40" src="./sol.png">
   <img align="center" alt="joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
