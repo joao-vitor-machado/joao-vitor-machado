@@ -1,9 +1,16 @@
 ## Hello! Welcome to my profile! 😉
 
 - 🔗Studying Web 3 and Blockchain development;
-- 🅰️Working with Angular and Typescript;
-- 💜Unicamp Blockchain League.
+- My current position: Working with Angular, Typescript, Java and Python;
+- 💜Unicamp Blockchain League development manager.
+<br>
 
+Software developer in love with technology and at the
+begining of their career looking for an opportuninty in an
+inovative company. Blockchain technology, Metaverse and
+Marketing enthusiastic.
+
+<br>
 <div>
   <img height="240em" src="https://github-readme-stats.vercel.app/api?username=joao-vitor-machado&show_icons=true&theme=dracula">
    <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-vitor-machado&theme=dracula">
@@ -21,7 +28,7 @@
 </div>
   
   ##
- 
+  ### Reach me on social media! ###
 <div> 
   <a href="https://www.instagram.com/__joavitor__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discordapp.com/users/Sid#3942" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
